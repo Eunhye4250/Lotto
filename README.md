@@ -1,2 +1,2 @@
 # Lotto
-lotto
+lotto.xls is raw data in .gitignore 
